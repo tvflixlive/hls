@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://103.213.238.70/SonyAath/tracks-v1a1/mono.m3u8
+https://cdn-sgp.oc.bd-cast.com/bee-global/sonyaath/chunks.m3u8
