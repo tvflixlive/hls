@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://mygoodstream.pw/proxy.php?http://208.115.215.42/Utsav_Gold_HD/index.m3u8
