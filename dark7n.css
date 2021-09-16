@@ -175,7 +175,7 @@ h2.vfx_section_title a:hover {
 	border: none;
 	border-radius: 0;
 	padding: 0;
-	background-image: url(https://i.ibb.co/k5RPzSW/Pics-Art-09-16-03-18-56.jpg);
+	background-image: url(https://i.ibb.co/Ny3mYC2/20210916-154138.jpg);
 	background-position: center center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -221,7 +221,7 @@ h2.vfx_section_title a:hover {
 .page-header .vfx_page_header_overlay ul li::before {
 	border: 0 none;
 	content: "|";
-	height: 30px;
+	height: auto;
 	left: -3px;
 	position: absolute;
 	top: 0;
