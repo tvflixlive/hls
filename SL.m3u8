@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://103.112.212.205/vtv/cic.php?c=Sony_Pal&q=800&e=.m3u8
+http://103.112.212.204/pco.php?id=48110
